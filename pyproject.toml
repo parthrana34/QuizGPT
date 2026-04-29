@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "quizgpt"
-version = "3.4.1"
+version = "3.4.2"
 description = "A Python package for generating unique quizzes (upto 10,000) from text, URLs, or YouTube transcripts using OpenAI."
 readme = "README.md"
 license = { file = "LICENSE" }

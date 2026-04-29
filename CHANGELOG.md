@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [3.4.2] - 2026-04-28
+
+### Changed
+- Updated package description to emphasize unique quiz generation and 10,000 question capability
+
 ## [3.4.1] - 2026-04-27
 
 ### Added
