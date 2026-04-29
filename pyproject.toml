@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "quizgpt"
 version = "3.4.1"
-description = "A Python package for generating quizzes from text, URLs, or YouTube transcripts using OpenAI."
+description = "A Python package for generating unique quizzes (upto 10,000) from text, URLs, or YouTube transcripts using OpenAI."
 readme = "README.md"
 license = { file = "LICENSE" }
 authors = [
@@ -30,8 +30,8 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://example.com/QuizGPT"
-Repository = "https://github.com/your-org/QuizGPT"
+Homepage = "https://github.com/parthrana34/QuizGPT"
+Repository = "https://github.com/parthrana34/QuizGPT"
 
 [project.scripts]
 quizgpt = "quizgpt.cli:main"
