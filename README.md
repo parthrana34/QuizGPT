@@ -485,7 +485,6 @@ Contributions welcome! Please:
 
 - **Issues**: Report on GitHub
 - **Discussions**: GitHub Discussions for Q&A
-- **Email**: support@example.com
 
 ## 🎉 Changelog
 

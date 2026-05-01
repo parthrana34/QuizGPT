@@ -59,8 +59,7 @@ class DimensionExtractor:
             List of dimension names (strings)
         """
         if len(content) < 100:
-            logger.warning("Content is too short for meaningful dimension extraction")
-            return ["General"]
+            logger.warning("Warning: Content is too short for meaningful dimension extraction")
         
         prompt = f"""Analyze the following content and extract {n_dimensions} high-level main topics or dimensions.
 

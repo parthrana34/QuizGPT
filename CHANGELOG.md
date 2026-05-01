@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [3.4.3] - 2026-04-30
+
+### Changed
+- Updated README and dimension handling with recent improvements
+
 ## [3.4.2] - 2026-04-28
 
 ### Changed
